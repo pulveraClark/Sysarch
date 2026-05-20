@@ -1,0 +1,963 @@
+DevNet Associate (Version 1.0) – Course Final Exam Answers Jan 20, 2021  Last Updated: May 20, 2026  DevNet Associate  186 Comments
+
+Recommended videosPowered by Publisher Collective
+
+Unmute
+Duration 
+1:38
+/
+Current Time 
+0:06
+
+Advanced Settings
+
+Fullscreen
+
+Pause
+
+Rewind 10 Seconds
+
+Up Next
+
+
+DevNet Associate (Version 1.0) – DevNet Associate Course Final Exam Answers
+How to find: Press “Ctrl + F” in the browser and fill in whatever wording is in the question to find that question/answer. If the question is not here, find it in IT Questions List.
+
+NOTE: If you have the new question on this test, please comment Question and Multiple-Choice list in form below this article. We will update answers for you in the shortest time. Thank you! We truly value your contribution to the website.
+
+1. A pharmaceutical company wants to contract the services of a cloud provider to store employee data and company-specific applications with strict access security. Which type of cloud would be the most appropriate for this scenario?
+
+community cloud
+public cloud
+hybrid cloud
+private cloud
+Explanation: Private clouds – Cloud-based applications and services offered in a private cloud are intended for a specific organization or entity, such as the government. A private cloud can be set up using the organization’s private network, though this can be expensive to build and maintain. A private cloud can also be managed by an outside organization with strict access security.
+
+2. What is a function provided by an implementation of a read-only automation solution?
+
+the ability to reduce risk by implementing security policies across the network infrastructure via automated changes
+the ability to use GET and SET requests to retrieve and send data across the network infrastructure
+the ability to use an automated request to audit configurations and manually deploy changes in order to implement compliance
+the ability to implement network infrastructure that receives a configuration from a specific centralized server
+Explanation: You can use a read scenario to audit configurations and do the next natural step, which is to put the configuration back into compliance
+
+3. Data is being sent from a source PC to a destination server. Which three statements correctly describe the function of TCP or UDP in this situation? (Choose three.)
+
+The TCP process running on the PC randomly selects the destination port when establishing a session with the server.
+UDP segments are encapsulated within IP packets for transport across the network
+The TCP source port number identifies the sending host on the network
+The UDP destination port number identifies the application or service on the server which will handle the data.
+The source port field identifies the running application or service that will handle data returning to the PC
+TCP is the preferred protocol when a function requires lower network overhead
+Explanation: Layer 4 port numbers identify the application or service which will handle the data. The source port number is added by the sending device and will be the destination port number when the requested information is returned. Layer 4 segments are encapsulated within IP packets. UDP, not TCP, is used when low overhead is needed. A source IP address, not a TCP source port number, identifies the sending host on the network. Destination port numbers are specific ports that a server application or service monitors for requests.
+
+4. What type of attack targets an SQL database using the input field of a user?
+
+buffer overflow
+SQL injection
+Cross site scripting
+XML injection
+Explanation: A criminal can insert a malicious SQL statement in an entry field on a website where the system does not filter the user input correctly.
+
+5. Which command can be used on Linux and MAC hosts to get IP addressing information?
+
+ipconfig
+ip address
+ifconfig
+networksetup -getinfo
+Explanation: Network administrators typically view the IP addressing information on Windows hosts by issuing the ipconfig command, and on Linux and Mac hosts by issuing the ifconfig command. The networksetup -getinfo command is used on Mac hosts to verify IP settings. The ip address command is used on Linux hosts to display IP addresses and properties.
+
+6. What are two reasons a network administrator would segment a network with a Layer 2 switch? (Choose two.)
+
+to create fewer collision domains
+to create more broadcast domains
+to enhance user bandwidth
+to isolale ARP request messages from the rest of the network
+to eliminate virtual circuits
+to isolate traffic between segments
+Explanation: A switch has the ability of creating temporary point-to-point connections between the directly-attached transmitting and receiving network devices. The two devices have full-bandwidth full-duplex connectivity during the transmission.
+
+7. Which tool might a developer use as part of a Continuous Integration pipeline in order to build and test source code?
+
+SQL
+REST
+Docker
+Jenkins
+Explanation: The testing environment often includes automated testing tools such as Jenkins, CircleCI, or Travis CI, as well as integration with a version control system.
+
+8. A packet is received by a server. The packet has a destination port number of 8008. What protocol or service is requested?
+
+Telnet over SSH
+RESTCONF
+HTTP
+NETCONF
+9. A network contains multiple VLANs spanning multiple switches. What happens when a device in VLAN 20 sends a broadcast Ethernet frame?
+
+Devices in VLAN 20 and the management VLAN see the frame.
+All devices in all VLANs see the frame
+Only devices that are connected to the local switch see the frame
+Only devices in VLAN 20 see the frame.
+Explanation: VLANs create logical broadcast domains that can span multiple VLAN segments. Ethernet frames that are sent by a device on a specific VLAN can only be seen by other devices in the same VLAN.
+
+10. Which piece of software is responsible for creating and managing virtual machines, including allocating system resources to each virtual machine as needed?
+
+supervisor
+hypervisor
+host operating system
+hosted operating system
+11. How is an Ethernet MAC address constructed?
+
+The first 3 bytes represent the network upon which the host resides, and the last 3 bytes uniquely identify the host.
+The first 3 bytes represent the vendor OUI, and the last 3 bytes are assigned uniquely by the vendor
+The first 3 bytes are uniquely assigned by LANA, and the last 3 bytes represent the serial number of the host
+The first 3 byles represent the vendor OUI, and the last 3 byles are assigned randorily by the operating system.
+12. Which Cisco SDK works with ACI?
+
+Cobra
+IMC
+UCS
+Instant Connect
+13. What platforms are provided by DevNet for community members to share solutions, tool kits, and other resources with each other?
+
+communities
+forums
+sandboxes
+exchanges
+Explanation: The Automation Exchange provides a collection of network automation use cases with different solutions and toolkits.
+
+14. Which two data formats can RESTCON use when requesting data or responding with data? (Choose two.)
+
+JSON
+XML
+YAML
+YANG
+HTML
+Explanation: RESTCONF can be used to access data. The RESTCONF requests and responses can use either JSON or XML structured data formats.
+
+15. Which DevNet resource would a developer use to look for a Python library that supports APIs for a specific Cisco product?
+
+DevNet Learning Labs
+Devlet Support
+Code Exchange
+DevNet Sandbox
+16. A component was created with the intent of combining the disciplines and skills of Dev and Ops. This component created a new job role and implemented a best-practices playbook for doing Ops with software methods. Which component matches this description?
+
+Agile Infrastructure and Operations
+the SRE approach
+automated infrastructure
+shared Version control
+Explanation: Google was among the first companies to understand and institutionalize a new kind of hybrid Dev+Ops job description. This was the Site Reliability Engineer (SRE). The role of the SRE is intended to fuse the disciplines and skills of Dev and Ops, creating a new specialty and best-practices playbook for doing Ops with software methods.
+
+17. Match the DevNet exhange type with the decription.
+
+DevNet Associate (Version 1.0) - DevNet Associate 1.0 Final exam
+DevNet Associate (Version 1.0) – DevNet Associate 1.0 Final exam
+
+Place the options in the following order:
+
+Categories:	Options:
+automation exchange	a collection of network automation use cases with different solutions and toolkits
+ecosystem	provides solutions across different technologies, industries, and geographies to jump start solution design and development
+code	uses the GitHub API and human moderators to categorize and display related repositories
+
+18. Refer to the exhibit. A user is working on Ansible on the local NMS to manage remote network devices. Which file is the user creating?
+
+
+
+service
+playbook
+variable
+hosts
+Explanation: Ansible uses an inventory file called hosts that contains device information used by Ansible playbooks. The hosts file begins with an alias for the remote. After the alias, the hosts file specifies three variables that will be used by the Ansible playbook to access the device. These are the SSH credentials Ansible needs to securely access the remote host.
+
+19. Which DevNet resource would a developer use in order to test custom code in a production-like environment?
+
+Devlet Support
+DevNet Learning Labs
+Code Exchange
+DevNet Sandbox
+Explanation: When you’re developing and testing technology, you want a test bed where you can try out code within a realistic environment without affecting production systems. To do that, go to the DevNet Sandbox offering, where you can try out Cisco hardware and environments.
+
+20. In which situation would a company implement a reverse proxy as a security solution?
+
+when the company has a database and needs to point to a DNS server that uses different IP addresses for development resources
+when the company wants all responses to clients to look like they came from the same server instead of individual ones
+when a hash is created based on the IP address of the request to a particular protected server
+when responses frorri servers need to be sent over different paths to ensure quality response time to the client devices making the requests
+Explanation: A reverse proxy is similar to a regular proxy: however, while a regular proxy works to make requests from multiple computers look like they all come from the same client, a reverse proxy works to make sure responses look like they all come from the same server.
+
+21. A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the Agile method. What is a characteristic of this method?
+
+a software development process where the highest priority is to satisfy the customer through early and continuous delivery of valuable software
+a process that eliminates anything that does not add value to the project including meetings and documentation
+a software development process that has the results of one phase feed into the next phase
+a more traditional software development process as they have used this process in past projects
+Case 2:
+
+a software development process that prioritizes responding to change over following a plan
+a software development method that tracks closely with the software development life cycle
+a process that was developed for manufacturing, but adapted to other industries
+a more traditional sollware developical process as they have used this process ini past projects
+Explanation: Agile Methods: The Agile Manifesto by design, wasn’t precise about how Agile should work. After forging the Manifesto, its originators (and many others) kept evolving these ideas, absorbing new ideas from many sources, and testing them in practice. As a result, over the past few decades, many takes on Agile have emerged, and some have become widely popular.
+
+22. A network engineer is creating a Docker container using the docker build command. If the engineer does not specify a tag, which tag will be used by default?
+
+tag
+latest
+(a blank space)
+default
+Explanation: The first part, the repository, is usually the username of the account storing the image. Next is the image name, and then finally the optional tag. (Remember, if you do not specify it, it will come up as latest.)
+
+23. Which component in the pyATS ecology handles bundling and running jobs?
+
+AEtest
+Clover
+Genie
+EasyPy
+24. Which three avenues are available within DevNet for developers who need help with specific developer scenario questions concerning Cisco products? (Choose three.)
+
+logging a ticket
+posting to the DevNet zone
+posting to a news group
+posting to a community forum
+posting to a Webex Teams space
+posting on the Cisco Learning Network
+25. A student who is interested in network programmability approaches an instructor for advice on learning more about the subject. The student is a kinesthetic learner who learns by doing. Which DevNet resource should the instructor consider telling the student about?
+
+DevNet Create
+DevNet Learning Labs
+DevNet Express
+DevNet Zone
+26. What is the default shell commonly used on macOS and Linux?
+
+tcsh
+csh
+Bourne
+Bash
+27. What is immutable infrastructure in DevOps?
+
+infrastructure that is deployed with all component versions locked except for the ability to perform manual configuration changes
+infrastructure that is only deployed and maintained in containers
+infrastructure that is entirely maintained and deployed in code and never subjected to manual changes
+virtualized infrastructure that is deployed as golden images
+Explanation: Immutable infrastructure is infrastructure that can never be changed manually. In DevOps, this type of infrastructure is entirely maintained through the use of code.
+
+28. What is the most common cause of IT outages?
+
+an engineer misconfiguring a device or network with manual changes
+an experienced engineer using an open source product
+an experienced engineer implementing a configuration using automation
+a threat actor largeting the enterprise equipment
+Explanation: Most outages are caused by systems being misconfigured, commonly due to human error as manual changes are being made.
+
+29. Which string of characters is used to identify the beginning of a new separate document when multiple documents are in a single YAML file?
+
+three slashes “///”
+three dots “…”
+three pound signs “###”
+three dashes “—“
+Explanation: YAML files conventionally open with three dashes ( — alone on a line) and end with three dots ( … also alone a line). YAML also accommodates the notion of multiple “documents” within a single physical file, in this case, separating each document with three dashes on its own line.
+
+30. What is the difference between functions and methods in the Python programming structure?
+
+Functions can use global variables whereas methods can only use local variables.
+Functions are called by a referencing object whereas methods are called by the names.
+Functions can pass arguments whereas methods can pass only predefined keywords.
+Functions are standalone code blocks whereas methods are code blocks associated with an object.
+Explanation: The difference between methods and functions is that functions are standalone code blocks while methods are code blocks associated with an object, typically for object-oriented programming.
+
+31. Which command is used to create a new Git repository?
+
+git init
+git add
+git commit
+git clone
+32. Which stakeholder determines the useful value of software product features in the Lean process?
+
+the customer
+the Scrum master
+the reviewer
+the programmer
+33. Match the SDLC phase with its description. (Not all options are used.)
+
+Match the SDLC phase with its description. (Not all options are used.)
+Match the SDLC phase with its description. (Not all options are used.)
+
+Place the options in the following order:
+
+Categories:	Options:
+deployment	software is installed into the production environment
+implmentation	code is developed according to low level and high level design documents
+requirements & anaylsis	the product owner and qualified team members gather the requirements for the software to be built
+34. What is a principle of the Lean software development model?
+
+adding additional product features that the customer did not ask for so that the customer is getting more than expected
+assigning resources to multiple projects so that effort can be divided on more than one task at a time
+making decisions as late as possible in the process so that more facts and details are available
+ordering workers to do tasks they may not want to do to ensure they get done
+35. What character is used to separate the key and value pairs in YAML?
+
+colon :
+semi colon ;
+underscore _
+forward slash /
+36. Which git command is used to compare changes between files?
+
+git diff
+git merge
+git checkout
+git status
+37. Refer to the exhibit. Match the missing components of the Python script for authenticating to the Cisco Network Services Orchestrator and obtaining a list of network devices using the username of “superadmin” and password of “soverysecure!”. (Not all options are used.)
+
+
+
+
+
+38. What is an example of a use supported by Cisco UCS Director and UCS Manager?
+
+bare metal server provisioning and monitoring of virtual environments
+call center and call management over IP networks
+underlying central system workflow management and migration
+telemetry data collection and analysis
+39. How can a Webex Teams administrator retrieve additional details about a user through an API call?
+
+by using the value of the organization name in the API call
+by using the value of a Webex Teams registered email address in the API call
+by using the value of the person id key in the API call
+by using the value of orgld in the API call
+40. Which library is the most commonly used Python library for connecting NETCONF clients with a NETCONF server?
+
+posix
+pyclient
+ncclient
+pypi
+
+41. Refer to the exhibit. Match the missing components of the Python script for authenticating to the Cisco DNA Center and obtaining an authentication token using the username of “adminuser” and password of “Sup3rC1$c0”. (Not all options are used.)
+
+
+
+q41.PNG
+q41.PNG
+
+Place the options in the following order:
+
+Categories:	Options:
+auth	Component 2
+password	Component 3
+dnacip	Component 1
+42. Refer to the exhibit. Match the missing components to the Python script for authenticating to the Cisco DNA Center and obtaining a token using the username of “secureuser” and password of “C1$c0”. (Not all options are used.)
+
+
+
+
+
+Categories:	Options:
+C1$c0	Component 1
+token	Component 3
+password	Component 2
+43. Refer to the exhibit. Match the missing components of the Python script for the following tasks. (Not all options are used.)
+
+delete all previous demo rooms
+create a new demo room
+enroll Allan and Jane as members
+post a message to the new room
+
+
+
+Explanation: Place the options in the following order:
+
+text	Component 4
+delete	Component 1
+create	Component 2
+memberships	Component 3
+44. Which two APIs allow for Cisco Meraki device provisioning and real-time notifications? (Choose two.)
+
+Webhook API
+Investigation API
+Dashboard API
+Enforcement API
+Reporting API
+Explanation: Dashboard API – This a RESTful service for device provisioning, management, and monitoring.
+Webhook API – This is a real-time notification system for network alerts, covering events and network health.
+
+
+45. A packet is received by a server. The packet has a destination port number of 443. What protocol or service is requested?
+
+HTTP
+NTP
+DHCP
+HTTPS
+46. When thinking about the functional planes of a network, what is unique about the data plane?
+
+It includes protocols used to remotely access network devices.
+It includes the SSH protocol.
+It manipulates data and outputs it in the XML format.
+It is responsible for the switching of packets in hardware.
+Case 2:
+
+It forwards data through a network infrastructure device.
+It includes protocols used to remotely configure network devices.
+It manipulates data and outputs it in the JSON format.
+It includes network traffic being processed by EIGRP or OSPF.
+Case 3:
+
+It manipulates traffic using Python.
+It includes applications and protocols used between network devices such as routers.
+It includes the SNMP protocol.
+It forwards data through a network device such as a router or a switch.
+Case 4:
+
+It forwards data through a network device.
+It includes routing protocols.
+It manipulates data and outputs it in the XML format.
+It includes protocols used to monitor network devices.
+Explanation: The data plane is the forwarding plane, which is responsible for the switching of packets in hardware, using information from the control plane. The data plane processes data in hardware.
+
+47. Which Docker component defines the steps needed to create an image that can be deployed in a variety of environments?
+
+UnionFS
+Dockerfile
+cross-site script
+namespaces
+48. Which three statements describe characteristics of a virtual machine? (Choose three.)
+
+It is created and deployed using the Docker format.
+It includes a guest operating system.
+It runs on top of a hypervisor
+It shares the operating system of the host computer.
+It is completely self-contained with its own emulated storage, memory, and network interfaces.
+It requires Windows as the host operating system.
+49. Match the use cases of a load balancer to the description. (Not all options are used.)
+
+
+DevNet Associate (Version 1.0) – DevNet Associate 1.0 Final exam
+
+Place the options in the following order:
+
+canary	diverts a small amount of traffic to a new production environment that is changed
+blue-green	sends traffic to a new environment, but keeps the old environment ready in case of issues
+round robin	sends requests to the next server on the list
+50. What are two characteristics of the staging environment of the four-tier deployment environment structure? (Choose two.)
+
+It is the point where code has been tested multiple times and is error free.
+It is structured as close as possible to the actual production environment.
+It is where the code undergoes final acceptance testing in a realistic environment.
+It is where end users will interact with the code.
+It often includes automated testing tools such as Jenkins, CircleCl, or Travis Cl.
+51. Refer to the exhibit. A network engineer has created a Jenkins pipeline. Which menu option would the engineer use to run the pipeline?
+
+
+
+Configure
+Changes
+Build Now
+Workspace
+52. A network engineer is configuring a Jenkins job and finishing with the following script in order to trigger the build:
+
+
+
+What is the purpose of the preparation stage?
+
+It makes sure that any previous instances of a particular Docker container are stopped and removed.
+It catches and removes any errors.
+It runs the SUCCESS Docker container.
+It places a log of any errors in the SUCCESS file.
+53. Which technique is used to make the output of password hashing nondeterministic?
+
+password length and complexity
+multifactor authentication
+password salting
+password strength validation tools
+54. What does self-service refer to in the context of enterprise IT?
+
+imaging frequently used server configurations for rapid deployment
+distributing and implementing broad access to public cloud infrastructure-as-a-service services
+mainstreamed processes that promote a lower IT headcount by implementing automation
+automated tools and methods that deliver preconfigured developer platforms on demand
+55. Which statement describes the term orchestration in IT automation?
+
+Orchestration is aimed at managing workload lifecycles and reacting dynamically to changing conditions in order to optimize processes.
+Orchestration is the process of preparing a server through the installation of libraries or daemons.
+Orchestration is the building, arranging, integration, and preparation of multi-component applications across multiple nodes.
+Orchestration is the obtaining and provisioning of compute, storage, and network infrastructure.
+Explanation: Orchestration may refer to several things. When meant concretely, it usually refers to user-built or platform-inherent automation aimed at managing workload lifecycles and reacting dynamically to changing conditions (e.g., by autoscaling or self-healing), particularly in container environments. When meant abstractly, it may refer to processes or workflows that link automation tasks to deliver business benefits, like self-service.
+
+56. What is an example of a read-only automation solution?
+
+streamlining the management of L3 firewall rules in Cisco Meraki networks
+gathering SD-WAN inventory data using Python and recording the values in a database
+simplifying the automation of network device authentication, configuration, and consistency
+gathering the current list of ACL entries on an IOS XE router and enforcing consistency
+57. A student is setting up the CSR1000v VM in VirtualBox that is already installed on the local computer. The VM is imported to the VirtualBox and starts successfully. The student tries to verify communications to the CSR1000v VM by opening the Firefox web browser on the local computer and enters the URL https://192.168.56.101. A security message “Warning: Potential Security Risk Ahead” appears. What is the security issue that results in this message?
+
+The SSL/TLS certificate uses a public key size of less than 1024 bits.
+The SSL/TLS certificate is self-signed by the router.
+The CA for the SSL/TLS certificate cannot be reached.
+The traffic to the VM is not encrypted.
+58. How do APIs affect traditional IT tasks?
+
+They are used to replace network infrastructure and implement network virtualization.
+They are used to eliminate repetitive manual tasks and replace them with automation.
+They are used to increase computer processing speed and lower power consumption.
+They are used to increase hardware speed and lower power consumption.
+59. Refer to the exhibit. PC1 needs to resolve the host name of the web server into an IP address by using DNS. What destination IP address and destination port number will PC1 assign to the DNS query packet?
+
+
+
+192.168.20.2 port 80
+192.168.20.3 port 53
+192.168.20.3 port 80
+192.168.10.1 port 53
+Explanation: ____
+
+60. Which two statements are true about NTP servers in an enterprise network? (Choose two.)
+
+There can only be one NTP server on an enterprise network
+All NTP servers synchronize directly to a stratum 1 time source.
+NTP servers at stratum 1 are directly connected to an authoritative time source.
+NTP servers ensure an accurate time stamp on logging and debugging information.
+NTP servers control the mean time between failures (MTBF) for key network devices.
+Explanation: Network Time Protocol (NTP) is used to synchronize the time across all devices on the network to make sure accurate timestamping on devices for managing, securing and troubleshooting. NTP networks use a hierarchical system of time sources. Each level in this hierarchical system is called a stratum. The stratum 1 devices are directly connected to the authoritative time sources.
+
+61. Match the steps with the actions that are involved when an internal host with IP address 192.168.10.10 attempts to send a packet to an external server at the IP address 209.165.200.254 across a router R1 that is running dynamic NAT. (Not all options are used.)
+
+
+Place the options in the following order:
+
+step 1	The host sends packets that request a connection to the server at the address 209.165.200.254.
+step 2	R1 checks the NAT configuration to determine if this packet should be translated.
+step 3	If there is no translation entry for this IP address, R1 determines that the source address 192.168.10.10 must be translated.
+step 4	R1 selects an available global address from the dynamic address pool.
+step 5	R1 replaces the address 192.168.10.10 with a translated inside global address.
+Explanation: The translation of the IP addresses from 209.65.200.254 to 192.168.10.10 will take place when the reply comes back from the server.
+
+62. A network administrator can successfully ping the server at www.cisco.com, but cannot ping the company web server located at an ISP in another city. Which tool or command would help identify the specific router where the packet was lost or delayed?
+
+traceroute
+ipconfig
+telnet
+netstat
+Explanation: The traceroute command provides connectivity information about the path a packet takes to reach the destination and about every router (hop) along the way. It also indicates how long a packet takes to get from the source to each hop and back.
+
+63. Which two HTTP functions correspond to the UPDATE function in CRUD? (Choose two.)
+
+POST
+DELETE
+PATCH
+PUT
+GET
+Explanation: CRUD is an acronym that stands for CREATE, READ, UPDATE, and DELETE. The HTTP functions that correspond to CRUD functions are as follows:
+GET -> READ
+POST -> CREATE
+PUT/PATCH -> UPDATE
+DELETE -> DELETE
+
+
+64. Match the term to the RESTAPI request http://example.com/update/person?id=42&email=person%40example.com. (Not all options are used.)
+
+Place the options in the following order:
+
+Categories:	Options:
+scheme	http
+path	update/person
+authority	example.com
+query	id=42&email=person%40example.com
+65. Which HTTP status code category is used in the response to indicate that a REST API request contains an error on the client side?
+
+1xx
+2xx
+3xx
+4xx
+5xx
+Explanation: 4xx – client error: Responses with a 4xx code means that the request contains an error, such as bad syntax or invalid input, which prevents the request from being completed. The client must take action to fix these issues before resending the request.
+
+66. Refer to the exhibit. A network administrator is using a Python script to test a REST API request. The traceback message indicates that there is an error in the URI. What is the error?
+
+
+
+The protocol is wrong.
+The resource path is wrong.
+The SSL certificate is invalid.
+The destination web host address is invalid.
+67. What are two requirements for an application to communicate with a webhook provider? (Choose two.)
+
+The application must support JSON.
+The application must always be running.
+The application must register a URL with the webhook provider.
+The host where the application is running must have an SSH client installed.
+The host where the application is running must have an SSH server running.
+Explanation: In order to receive a notification from a webhook provider, the application must meet certain requirements:
+
+The application must be running at all times to receive HTTP POST requests.
+The application must register a URI on the webhook provider so that the provider knows where to send a notification when target events occur.
+
+68. A student is learning network automation by using a REST API. The student sends a request to a network device and receives a response with the status code of 202. What does this status code mean?
+
+The request was understood but has been rejected by the server.
+The request was successful and typically includes a payload.
+The request has been accepted for processing, but the processing has not been completed.
+Because of a server error, the request cannot be fulfilled.
+Explanation: Code 202: Request has been accepted for processing and is in process
+
+69. What are two characteristics of stateless applications? (Choose two.)
+
+They must run on container orchestrators like Kubernetes.
+They can be freely scaled across available capacity without disrupting ongoing customer connections.
+They can be scaled only by redeploying them and destroying the data that users or operators previously needed.
+They maintain the user state within the local user machine so that automation can work non-destructively.
+They can store a user state in an accessible database separate from application servers and other components.
+70. What is a characteristic of the continuous integration component of the CI/CD philosophy for software development?
+
+Code changes are continually merged with the main branch of the application, so change sets are small.
+Code changes are tested and integrated with the main branch then tested again before they are deployed into production.
+Code is constantly deployed into production where users serve as the final testers.
+Application development is performed in short sprints so that enough code is always in a deployable state.
+71. A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the Waterfall method. What is a characteristic of this method?
+
+a process that amplifies learning as well as delivers as quickly as possible
+a software development process where the highest priority is to satisfy the customer through early and continuous delivery of valuable software
+a software development process where a particular phase depends on the results of the previous phase
+a process that eliminates anything that does not add value to the project including meetings and documentation
+Case 2:
+
+A software development process that prioritizes responding to change over following a plan
+A process that eliminates inefficient ways of working like expecting coders to multitask
+A software development process that focuses on frequent delivery of working software as well as collaboration between developers and business employees
+A software devilment process that can only go forward.
+Case 3:
+
+a software development process that has the results of one phase feed into the next phase
+a process that eliminates anything that does not add value to the project including meetings and documentation
+a software development process that focuses on frequent delivery of working software as well as collaboration between developers and business employees
+a process that eliminates inefficient ways of working like expecting coders to multitask
+Explanation: With waterfalls, the water flows in one direction only. With the waterfall method, the process goes in one direction, and can never go backwards. Think of it like a relay race where one runner has to finish their distance before handing the baton off to the next person, who is waiting for them. The baton always goes in a forward motion.
+
+72. In which SDLC phase is the software product installed into the production environment to decide if it is ready for release?
+
+implementation
+deployment
+design
+testing
+Explanation: The deployment phase takes the software from the testing phase as input. During the deployment phase, the software is installed into the production environment. If there are no deployment issues, the product manager works with the architects and qualified engineers to decide whether the software is ready to be released.
+At the end of the deployment phase, the final piece of software is released to customers and other end users.
+
+73. Which convention is used in Python to indicate that methods and variables in a class are private and not to be used outside of the class?
+
+by using a single preceding underscore ( _ ) for a method or variable
+by using the command class private classname() : to start the class definition
+by using two preceding hyphens ( — ) for a method or variable
+by declaring a private method or variable in the beginning of the class definition
+74. A packet is received by a server. The packet has a destination port number of 80. What protocol or service is requested?
+
+DHCP
+Telnet over SSH
+HTTP
+RESTCONF
+75. A network administrator is developing an application to control a Webex device through xAPI. Which three protocols can be used to access xAPI? (Choose three.)
+
+Telnet
+HTTP
+XML
+RS-232
+FTP
+JSON
+Explanation: There are multiple ways to access xAPI including Telnet/SSH, HTTP, and RS-232 serial connection.
+
+
+76. Which type of request is used to send a message to a Webex Teams space using Python and the Messages API?
+PUT
+POST
+GET
+PATCH
+77. A network administrator is assigned the 172.16.0.0/24 block of addresses to use in designing an IP addressing scheme. The administrator submits this design for approval:
+
+172.16.0.0/26
+172.16.0.64/27
+172.16.0.96/26
+172.16.0.128/27
+What should be the response from the senior network engineer regarding this design?
+
+This design is flawed because the 172.16.0.128/27 network number is invalid.
+This design will work for the branch office.
+This design is flawed because no design could have two networks that use a /26 mask and are not consecutive blocks of addresses.
+This design is flawed because the 172.16.0.96/26 network is not a valid block of addresses.
+This design is flawed because the 172.16.0.96/26 network overlaps with other addresses.
+Explanation: The valid numbers that can be used with a /26 mask include 172.16.0.0/26, 172.16.0.64/26, 172.16.0.128/26, and 172.16.0.192/26.
+
+78. Which statement describes a stateful firewall?
+
+It can filter packets based on information at Layers 3, 4, 5 and 7 of the OSI reference model.
+It can determine if the connection is in the initiation, data transfer, or termination phase.
+It can only filter packets based on limited Layer 3 and 4 information.
+It can expand the number of IP addresses available and can hide network addressing design.
+Explanation: Basic packet filtering firewalls can only filter based on Layer 3 and sometimes basic Layer 4 information. An application gateway firewall, or proxy firewall, can filter based on information in the upper layers such as the application layer. A NAT firewall can expand the number of available IP addresses on the network.
+
+79. A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the Lean method. What is a characteristic of this method?
+
+a process that eliminates inefficient ways of working like expecting coders to multitask
+a software development process that focuses on frequent delivery of working software as well as collaboration between developers and business employees
+a software development process that has the results of one phase feed into the next phase
+a software development process that can only go forward
+Case 2:
+
+a software development process where the highest priority is to satisfy the customer through early and continuous delivery of valuable software
+a software development process that can only go forward
+a process that amplifies learning as well as delivers as quickly as possible
+a more traditional software development process as they have used this process in past projects
+Case 3:
+
+a process that was developed for manufacturing, but adapted to other industries
+a software development process where a particular phase depends on the results of the previous phase
+a software development process that can only go forward
+a software development method that tracks closely with the software development life cycle
+
+80. Refer to the exhibit. Match the Python coding information in the authentication request to the Cisco DNA Center to the location in the script. (Not all options are used.)
+
+
+
+
+Categories:	Options:
+1001001027331	code_A
+url	code_B
+auth=(“person1″,”super2”)	code_C
+81. A student is learning REST API application. The student constructs an URI to query the MapQuest API for a route from New York, NY to Boston, MA. What is the valid URI format?
+
+Copy
+https://www.mapquestapi.com/directions/v2/route?key=key&from=New+York+NY&to=Boston+MA
+
+https://www.mapquestapi.com/directions/v2/route?key==key&from==New+York%2C+NY&to==Boston%2C+MA
+
+https://www.mapquestapi.com/directions/v2/route?key:key&from:New+York%2C+NY&to:Boston%2C+MA
+
+https://www.mapquestapi.com/directions/v2/route?key= key&from=New+York%2C+NY&to=Boston%2C+MA
+82. Refer to the exhibit. A student constructs a URI to query the MapQuest API for a route from New Orleans, LA to New York, NY. Match the components to the MapQuest URL. (Not all options are used.)
+
+
+
+
+
+83. Refer to the exhibit. Match the Python code components to the function. (Not all options are used.)
+
+
+
+
+Place the options in the following order:
+
+Categories:	Options:
+sys.exit()	stops the program execution
+str(resp.status_code)	converts data format
+api/v1/host	identifies API to be called
+verify = False	disables SSL handshake
+‘content-type’:’application/json’	identifies request data format
+‘X-Auth-Token’:ticket	defines API authentication
+84. A packet is received by a server. The packet has a destination port number of 123. What protocol or service is requested?
+
+DNS
+SSH
+NTP
+RESTCONF
+85. Which scenario exhibits the “social proof” principle of human influence?
+
+A user receives a phone call from someone claiming to be from the IT department who needs to verify user credentials.
+A user visits a web site offering a free gift if the user provides contact information.
+A user opens an email advertising a free trial on a website that is only available for a few hours.
+A user completes a survey requesting personal information after seeing co-workers completing the survey.
+86. Which SQL injection defense method should be used only as a last resort?
+
+escaping all user-supplied input
+using a database firewall
+implementing whitelist input validation
+using parameterized queries
+87. Which type of ISE node provides network access, posturing, guest access, client provisioning, and profiling services?
+
+monitoring
+administration
+pxGrid
+policy service
+Explanation: Check the Enable Session Services check box to enable network access, posture, guest, and client provisioning services.
+
+88. Which communication protocol does Ansible use to connect to remote devices?
+
+Telnet over VPN
+HTTPS
+Secure FTP
+SSH
+Explanation: Ansible communicates with remote machines over the SSH protocol. By default, Ansible uses native OpenSSH and connects to remote machines using your current user name, just as SSH does.
+
+89. Refer to the exhibit. Router R2 is configured with static NAT. Place in order the steps that occur when the client accesses the web server through the router. (Not all options are used.)
+
+DevNet Associate (Version 1.0) - DevNet Associate 1.0 Final exam 30
+DevNet Associate (Version 1.0) – DevNet Associate 1.0 Final exam 30
+
+
+Place the options in the following order:
+
+Categories:	Options:
+Step 3	R2 replaces the inside global address with the inside local address of the web server and forwards the packet to the web server.
+Step 5	R2 receives the packet from the web server. R2 checks the NAT table, then translates the source address of the web server into an inside global address and forwards the packet.
+Step 4	The web server uses the outside global address of the client as the destination address when responding.
+Step 2	R2 receives the packet on its outside interface, then checks and locates the destination address in its NAT table.
+Step 1	The client uses the inside global address of the web server as the destination address to send a packet to the web server.
+90. Refer to the exhibit. What is the function of the identified missing information in regards to the parameter and method contained in the request?
+
+
+A Webex Teams space will be identified by using a specified title, and additional details will be retrieved.
+It provides the name for a Webex teams space to be deleted.
+A Webex Teams space will be identified and a message will be posted with the title specified.
+It provides the name for a new Webex teams space.
+91. What is an architectural constraint to which a true RESTful API web service must adhere?
+
+It must support XML-RPC and JSON-RPC.
+It allows resource caching.
+It should be behind a firewall.
+It operates as a cloud service.
+Case 2:
+
+It operates in a stateless way.
+It uses HTTPS to transport data.
+It must operate along with a DNS server.
+It operates as a cloud service.
+Explanation: These are the REST constraints:
+
+-Client/server
+-Stateless
+-Cache
+-Uniform interface
+-Layered system
+-Code on demand
+92. A packet is received by a server. The packet has a destination port number of 53. What protocol or service is requested?
+
+DNS
+NetBIOS (NetBT)
+POP3
+IMAP
+93. Which statement accurately describes dynamic NAT?
+
+It always maps a private IP address to a public IP address.
+It provides an automated mapping of inside local to inside global IP addresses.
+It provides a mapping of internal host names to IP addresses.
+It dynamically provides IP addressing to internal hosts.
+Explanation: Dynamic NAT provides a dynamic mapping of inside local to inside global IP addresses. NAT is merely the one-to-one mapping of one address to another address without taking into account whether the address is public or private. DHCP is automatic assignment of IP addresses to hosts. DNS is mapping host names to IP addresses.
+
+94. A packet is received by a server. The packet has a destination port number of 830. What protocol or service is requested?
+
+NTP
+DHCP
+NETCONF
+HTTPS
+Explanation: By default, the NETCONF server on the device runs on TCP port 830 and uses the SSH process for transport. A NETCONF session can be established by using an SSH client and specifying port 830 when connecting to the device
+
+95. Which programming language is supported by the Webex xAPI to develop macros for on-device customization?
+
+Java
+Python
+JavaScript
+C++
+96. Which Cisco management system is designed as the solution for Software-Defined Networking and runs on Nexus 9000 hardware?
+
+Application Centric Infrastructure platform (ACI)
+IOS XE
+Nexus Operating System (NX-OS)
+DNA Center
+97. A developer issues a Linux command python3 -m venv devenv. What is the developer trying to achieve?
+
+to install the devnet tool sets in the Python 3 virtual environment named venv
+to create a Python 3 virtual environment named devenv
+to activate the Python 3 virtual environment named devenv
+to enter the Python 3 virtual environment named venv using the devnet tool sets
+Explanation: The syntax for creating a Python 3 virtual environment in a Linux system is python3 -m venv virtual_environment , where venv is the Python 3 module to create a virtual environment and -m is the switch to tell Python 3 the venv module is to be used.
+
+98. Refer to the exhibit. Match the missing components of the Python script for the APIC-EM REST API request for the user “secureuser”. (Not all options are used.)
+
+Answers:
+
+Place the options in the following order:
+
+Categories:	Options:
+secureuser	Component 1
+requests	Component 2
+header	Component 3
+99. Two network engineers are discussing the methods used to forward frames through a switch. What is an important concept related to the cut-through method of switching?
+
+The fragment-free switching offers the lowest level of latency.
+Fast-forward switching can be viewed as a compromise between store-and-forward switching and fragment-free switching.
+Fragment-free switching is the typical cut-through method of switching.
+Packets can be relayed with errors when fast-forward switching is used.
+Explanation: Fast-forward switching offers the lowest level of latency and it is the typical cut-through method of switching. Fragment-free switching can be viewed as a compromise between store-and-forward switching and fast-forward switching. Because fast-forward switching starts forwarding before the entire packet has been received, there may be times when packets are relayed with errors.
+
+100. When thinking about the functional planes of a network, what is unique about the control plane?
+
+It forwards data through a network device.
+It manipulates data and outputs it in the XML format.
+It includes the SNMP protocol.
+It includes network traffic being processed by EIGRP or OSPF.
+Case 2:
+
+It forwards data based on STP settings.
+It includes applications and protocols used between network devices such as routers.
+It includes protocols used to monitor network devices.
+It is responsible for the switching of packets in hardware.
+Case 3:
+
+It manipulates data and outputs it in the JSON format.
+It includes the SNMP protocol.
+It processes data in hardware.
+It processes network traffic that is paramount to maintaining the functionality of the network infrastructure.
+Explanation: Control Plane – The control plane of a network device processes the traffic that is required to maintain the functionality of the network infrastructure. The control plane consists of applications and protocols between network devices, such as routing protocols OSPF, BGP, and Enhanced Interior Gateway Routing Protocol (EIGRP). The control plane processes data in software.
+
+101. Refer to the exhibit. If PC1 is communicating with a web server on the Internet, which two TCP/IP layers are responsible for encapsulating the message that requests data from that particular server and assigning a source port number? (Choose two.)
+
+
+session
+network
+transport
+physical
+application
+102. A network security administrator is evaluating products that automate threat containment through APIs when a threat is detected. Which Cisco product with the desired capability provides a rule-based engine for enabling policy-based network access to users and devices?
+
+Identity Services Engine
+Umbrella
+Threat Grid
+Advanced Malware Protection
+Explanation: ISE (Cisco Identity Services Engine) provides a rule-based engine for enabling policy-based network access to users and devices. It enables you to enforce compliance and streamline user network access operations. With the ISE APIs, you can automate threat containment when a threat is detected. It integrates with existing identity deployments.
+
+103. Match the purpose with its DHCP message type. (Not all options are used.)
+
+
+DHCPREQUEST	A message that is used to locate any available DHCP server on a network
+DHCPOFFER	A message that is used to suggest a lease to a client
+DHCPDISCOVER	A message that is used to identify the explicit server and lease offer to accept
+DHCPNAK	A message that is used to acknowledge that the lease is successful
+DHCPACK	A message is used by a server to finalize a successful lease with a client
+104. Refer to the exhibit. Match the missing components to the Meraki API script to complete the following tasks. (Not all options are used.)
+retrieve the organizations
+retrieve the networks and the corresponding id
+retrieve the devices and corresponding device id
+
+
+
+105. Refer to the exhibit. A student constructs a URI to query the MapQuest API for a route from New Orleans, LA to New York, NY. Match the components to the MapQuest URI. (Not all options are used.)
+
+
+Place the options in the following order:
+
+Categories:	Options:
+directions/v2/route	component1
+key=get_your_api_key	component2
+from=New+Orleans%2C+LA	component3
+to=New+York%2C+NY	component4
+106. When thinking about the functional planes of a network, what is unique about the management plane?
+
+It forwards data based on STP settings.
+It is responsible for the switching of packets in hardware.
+It includes protocols used to monitor network devices.
+It includes applications and protocols used between network devices such as routers.
+Explanation: Management Plane – The management plane manages traffic destined for the network device itself. Examples include Secure Shell (SSH) and Simple Network Management Protocol (SNMP).
+
+107. Which two data formats can RESTCONF use when requesting data or responding with data? (Choose two.)
+
+XML
+YANG
+JSON
+YAML
+HTML
